@@ -1,1 +1,1 @@
-# salesforce-automation
+# This is the source code for creating cases in SalesForce using the python module pyautogui. Using the program getPosition.py I am able to determine the pixel position of certain elements I want to interact with in salesfoces. The caseCreation.py and udateNotes.py uses pyautogui's built in functions to actually interact with the. **NOTE the code is set to my work montiors pixel dimensions. You will have to update the code to make it work with your montiors dimesnions.
