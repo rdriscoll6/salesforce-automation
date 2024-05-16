@@ -84,7 +84,7 @@ def welcomeCall():
 for i in range (3):
   time.sleep(1)
   updateCase()
-  writeMessage('\n 5/14 - Did call with client to answer her questions related to the General Ledger. Showed her how to export COA from QBO. Set up ID:14133950 and sent client ADR. Will meet with her again on 5/16.')
+  writeMessage('fill out notes here')
   #welcomeCall()
   updateDate()
   #mappingNotes()
