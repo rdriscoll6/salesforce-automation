@@ -2,10 +2,10 @@ import pyautogui as pyag
 import keyboard
 import time
 
-prospectClientName = 'The Tube on Lincoln LLC'
-branchNum = '052'
-paychexReps = ['Luchel Sylvain','Courtney Coblentz','Jeremy Scarson']
-contactName = 'Alex Craig'
+prospectClientName = 'Company name'
+branchNum = '000'
+paychexReps = ['Rep1','Rep2','Rep3']
+contactName = 'contact name'
 icAssigned = False
 clientType = 'HTML5'
 additionalClientType = 'Non-CPA'
@@ -14,42 +14,9 @@ anticipateRunDate = '5/15/2024'
 timeZone = 'Eastern'
 followUpDate = '5/22/2024' #will have to update a week from when case has been submitted
 x,y = 2335,418
-caseCreator = 'Ryan Driscoll'
+caseCreator = 'caseCreatorname'
 coaRec = 'Yes'
-message = """DEVONS HOUSE LLC 0039-70135931 is requiring GL setup and their shell is now complete. The run date at this time is 5/15/2024. The client contact that should be used for setup is below.
-
-
-GL Contact
-
-Name: Devon Escoffery, Phone: N/A, Email: jr@devonshouses.org<mailto:jr@devonshouses.org>
-
-
-
-If there are any questions, please reach out to Charles Davis (cdavis12@paychex.com<mailto:cdavis12@paychex.com>) and include them on any updates.
-
-
-
-Comments
-
-
-
-SMB client requesting GL Services. See below information.
-
-
-
-Client Contact First & Last Name: Devon Escoffery
-
-Client Contact Phone Number: 757-291-8685
-
-Client Contact Email: Jr@devonshouses.org<mailto:Jr@devonshouses.org>
-
-Is this a Multi ID or Acquisition?
-
-(If multi ID enter all IDs associated and only fill this in on one client in Insite)
-
-
-
-"""
+message = ''' paste notes from typeform '''
 
 
 
